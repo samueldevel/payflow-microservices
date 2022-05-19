@@ -1,0 +1,27 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.mvn
+mvnw*
+
+### VS Code ###
+.vscode/
+
+### generated files ###
+bin/
+gen/
+
+### Other ###
+logs/
+log
+temp/
+zips/
+email.properties
